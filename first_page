@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My First Website</title>
+</head>
+<body>
+	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+	<style type="text/css">
+		h1{
+			color: white;
+			text-align: center;
+			font-size: 40px;
+			font-family: monospace;
+			margin: auto;
+			padding-top: 50px;
+		}
+		h2{
+			color: white;
+			text-align: center;
+			font-size: 30px;
+			margin: auto;
+			font-family: monospace;
+			padding-top: 50px;
+		}
+		h3{
+			color: white;
+			font-size: 20px;
+			line-height: 2;
+			font-family: monospace;
+			padding-left: 90px;
+			padding-top: 70px;
+		}
+		h4{
+			color: #5CC951;
+			font-size: 15px;
+			text-align: justify;
+			line-height: 2;
+			font-family: monospace;
+			padding-left: 130px;
+			max-width: 900px;
+
+		}
+		body{
+			background-color: #404AA9;
+			font-size: 1rem;
+			line-height: 2;
+			font-family: monospace;
+
+		}
+		.img-container {
+			width: 150px;
+    		border-radius: 50%;
+    		text-align: center;
+
+
+		}
+	</style>
+	<h1>Hello AltCampus</h1>
+
+	<a href="#"><img class="img-container" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2DKv6USToT6C6ewTWAxjbw7z204M90IBb1d69JVmgEwzSQ1ip" alt="My Photo" class="center"></a>
+
+	<h2>I am Arjun</h2>
+
+	<h3>1. Tell us your story.(in a minimum of 200 words)</h3>
+	<h4>Hi i am Arjun. I born and brought up in delhi. i am post graduate in computer science from Thapar University. Currently i am working as a network engineer in DEN Broadband Pvt. Ltd. Appart from this i am a boxer(bronze medalist in inter college sports meet 2012). I like hiking,wall climbing,cricket,swimming.</h4>
+
+	<h3>2. Why do you want to learn web development?</h3>
+	<h4>Actully web development gives up an opportunity to express ourself creatively on the internet./h4>
+
+	<h3>3. Tell us a little bit about the person who has had the most impact on you and how?</h3>
+	<h4>I dont know this, it depends, every time there is a different person.</h4>
+
+	<h3>4. What's your preferred learning style? how do you think you learn something best?</h3>
+	<h4>I am a tactile learner. I preferred offline study, by practice and hardwork we can do lots of thing.</h4>
+
+	<h3>5. What's the hardest thing you have done so far?</h3>
+	<h4>I left my job after my post graduation.</h4>
+
+	<h3>6. What do you think are your best qualities?</h3>
+	<h4>I never lie. I believe in myself, Being positive.</h4>
+
+	<h3>7. Why do you want to join AltCampus?</h3>
+	<h4>First i want a good job and second i want to become a full stack web developer.</h4>
+</body>
+</html>
